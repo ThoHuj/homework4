@@ -1,0 +1,6 @@
+litellm
+jupyter
+python-dotenv
+requests
+ipykernel
+matplotlib
